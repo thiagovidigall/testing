@@ -3,8 +3,10 @@
     "",
     "\\c#",
     "\\c#\\AutenticationJWT1",
-    "\\c#\\AutenticationJWT1\\CreateJWT"
+    "\\c#\\AutenticationJWT1\\CreateJWT",
+    "\\c#\\AutenticationJWT1\\CreateJWT2",
+    "\\c#\\AutenticationJWT1\\CreateJWT2\\Controllers"
   ],
-  "SelectedNode": "\\c#\\AutenticationJWT1",
+  "SelectedNode": "\\c#\\AutenticationJWT1\\CreateJWT2\\Controllers\\AuthController.cs",
   "PreviewInSolutionExplorer": false
 }
